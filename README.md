@@ -1,3 +1,4 @@
 # hello-world
 This is my first repository.
-Be gentle!
+UCLA Applied Mathematics & Statistics major.
+
